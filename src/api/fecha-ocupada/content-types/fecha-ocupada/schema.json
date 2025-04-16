@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "fechas_ocupadas",
+  "info": {
+    "singularName": "fecha-ocupada",
+    "pluralName": "fechas-ocupadas",
+    "displayName": "fechasOcupadas",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "date": {
+      "type": "date"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "collectionType",
+  "collectionName": "turnos",
+  "info": {
+    "singularName": "turno",
+    "pluralName": "turnos",
+    "displayName": "turno",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "firstName": {
+      "type": "string"
+    },
+    "lastName": {
+      "type": "string"
+    },
+    "phoneNumber": {
+      "type": "string"
+    },
+    "date": {
+      "type": "date"
+    },
+    "time": {
+      "type": "string"
+    },
+    "statusT": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "kind": "collectionType",
+  "collectionName": "casa_horarios",
+  "info": {
+    "singularName": "casa-horario",
+    "pluralName": "casa-horarios",
+    "displayName": "casaHorarios"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "time": {
+      "type": "time"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "kind": "collectionType",
+  "collectionName": "barber_horarios",
+  "info": {
+    "singularName": "barber-horario",
+    "pluralName": "barber-horarios",
+    "displayName": "barberHorarios"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "time": {
+      "type": "time"
+    }
+  }
+}
